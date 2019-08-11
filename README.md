@@ -1,4 +1,4 @@
-# Apache-modules-
+# AWS Apache-modules
 Assignment Description
 Assignment 2 - Apache modules
 1) By default, when you browse for Apache ServerName, you get index.html printed in your browser even if you dont mention the file name in URL. Change that behaviour and make default index file as test.html.
